@@ -31,8 +31,8 @@
 		1749AA76272D9CE1007CC39D /* KeyboardExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardExampleView.swift; sourceTree = "<group>"; };
 		178B310D27318C57005E1DF7 /* macOSCustomizeToolbar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = macOSCustomizeToolbar.png; sourceTree = "<group>"; };
 		178B311227318E2A005E1DF7 /* macOSToolbarPlacement.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = macOSToolbarPlacement.png; sourceTree = "<group>"; };
-		178B311427318E90005E1DF7 /* iOSKeyboardPlacement.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = iOSKeyboardPlacement.mp4; sourceTree = "<group>"; };
-		178B311527318EC5005E1DF7 /* iOSToolbar.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = iOSToolbar.mp4; sourceTree = "<group>"; };
+		178B311427318E90005E1DF7 /* iOSKeyboardPlacement.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = iOSKeyboardPlacement.gif; sourceTree = "<group>"; };
+		178B311527318EC5005E1DF7 /* iOSToolbar.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = iOSToolbar.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,8 +97,8 @@
 			children = (
 				178B310D27318C57005E1DF7 /* macOSCustomizeToolbar.png */,
 				178B311227318E2A005E1DF7 /* macOSToolbarPlacement.png */,
-				178B311427318E90005E1DF7 /* iOSKeyboardPlacement.mp4 */,
-				178B311527318EC5005E1DF7 /* iOSToolbar.mp4 */,
+				178B311427318E90005E1DF7 /* iOSKeyboardPlacement.gif */,
+				178B311527318EC5005E1DF7 /* iOSToolbar.gif */,
 			);
 			path = images;
 			sourceTree = "<group>";
