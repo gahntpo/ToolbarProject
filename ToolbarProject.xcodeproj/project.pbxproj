@@ -17,7 +17,7 @@
 		1749AA75272D9245007CC39D /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1749AA73272D9245007CC39D /* DetailView.swift */; };
 		1749AA77272D9CE1007CC39D /* KeyboardExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1749AA76272D9CE1007CC39D /* KeyboardExampleView.swift */; };
 		178B310E27318C57005E1DF7 /* macOSCustomizeToolbar.png in Resources */ = {isa = PBXBuildFile; fileRef = 178B310D27318C57005E1DF7 /* macOSCustomizeToolbar.png */; };
-		178B311327318E2A005E1DF7 /* macOS-toolbar-placement.png in Resources */ = {isa = PBXBuildFile; fileRef = 178B311227318E2A005E1DF7 /* macOS-toolbar-placement.png */; };
+		178B311327318E2A005E1DF7 /* macOSToolbarPlacement.png in Resources */ = {isa = PBXBuildFile; fileRef = 178B311227318E2A005E1DF7 /* macOSToolbarPlacement.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,9 +30,9 @@
 		1749AA73272D9245007CC39D /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		1749AA76272D9CE1007CC39D /* KeyboardExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardExampleView.swift; sourceTree = "<group>"; };
 		178B310D27318C57005E1DF7 /* macOSCustomizeToolbar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = macOSCustomizeToolbar.png; sourceTree = "<group>"; };
-		178B311227318E2A005E1DF7 /* macOS-toolbar-placement.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "macOS-toolbar-placement.png"; sourceTree = "<group>"; };
-		178B311427318E90005E1DF7 /* iOS-keyboard-placement.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iOS-keyboard-placement.mp4"; sourceTree = "<group>"; };
-		178B311527318EC5005E1DF7 /* iOS-toolbar.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iOS-toolbar.mp4"; sourceTree = "<group>"; };
+		178B311227318E2A005E1DF7 /* macOSToolbarPlacement.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = macOSToolbarPlacement.png; sourceTree = "<group>"; };
+		178B311427318E90005E1DF7 /* iOSKeyboardPlacement.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = iOSKeyboardPlacement.mp4; sourceTree = "<group>"; };
+		178B311527318EC5005E1DF7 /* iOSToolbar.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = iOSToolbar.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,9 +96,9 @@
 			isa = PBXGroup;
 			children = (
 				178B310D27318C57005E1DF7 /* macOSCustomizeToolbar.png */,
-				178B311227318E2A005E1DF7 /* macOS-toolbar-placement.png */,
-				178B311427318E90005E1DF7 /* iOS-keyboard-placement.mp4 */,
-				178B311527318EC5005E1DF7 /* iOS-toolbar.mp4 */,
+				178B311227318E2A005E1DF7 /* macOSToolbarPlacement.png */,
+				178B311427318E90005E1DF7 /* iOSKeyboardPlacement.mp4 */,
+				178B311527318EC5005E1DF7 /* iOSToolbar.mp4 */,
 			);
 			path = images;
 			sourceTree = "<group>";
@@ -183,7 +183,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1749AA69272D912C007CC39D /* Assets.xcassets in Resources */,
-				178B311327318E2A005E1DF7 /* macOS-toolbar-placement.png in Resources */,
+				178B311327318E2A005E1DF7 /* macOSToolbarPlacement.png in Resources */,
 				178B310E27318C57005E1DF7 /* macOSCustomizeToolbar.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
